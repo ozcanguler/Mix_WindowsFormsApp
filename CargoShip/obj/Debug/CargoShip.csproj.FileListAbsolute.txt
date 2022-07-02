@@ -1,0 +1,10 @@
+C:\Users\Garavel\Desktop\Sluiter\CargoShipForms\CargoShip\CargoShip\bin\Debug\CargoShip.exe.config
+C:\Users\Garavel\Desktop\Sluiter\CargoShipForms\CargoShip\CargoShip\bin\Debug\CargoShip.exe
+C:\Users\Garavel\Desktop\Sluiter\CargoShipForms\CargoShip\CargoShip\bin\Debug\CargoShip.pdb
+C:\Users\Garavel\Desktop\Sluiter\CargoShipForms\CargoShip\CargoShip\obj\Debug\CargoShip.csprojAssemblyReference.cache
+C:\Users\Garavel\Desktop\Sluiter\CargoShipForms\CargoShip\CargoShip\obj\Debug\CargoShip.Form1.resources
+C:\Users\Garavel\Desktop\Sluiter\CargoShipForms\CargoShip\CargoShip\obj\Debug\CargoShip.Properties.Resources.resources
+C:\Users\Garavel\Desktop\Sluiter\CargoShipForms\CargoShip\CargoShip\obj\Debug\CargoShip.csproj.GenerateResource.cache
+C:\Users\Garavel\Desktop\Sluiter\CargoShipForms\CargoShip\CargoShip\obj\Debug\CargoShip.csproj.CoreCompileInputs.cache
+C:\Users\Garavel\Desktop\Sluiter\CargoShipForms\CargoShip\CargoShip\obj\Debug\CargoShip.exe
+C:\Users\Garavel\Desktop\Sluiter\CargoShipForms\CargoShip\CargoShip\obj\Debug\CargoShip.pdb
