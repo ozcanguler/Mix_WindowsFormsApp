@@ -13,6 +13,8 @@ namespace CoinFlip
     public partial class Form1 : Form
     {
         coin[] coins = new coin[5];
+        int l;
+        int s;
         public Form1()
         {
             InitializeComponent();
@@ -26,34 +28,48 @@ namespace CoinFlip
             for (int i = 0; i < coins.Length; i++)
             {
                 coins[i].flipCoin(r);
-               
-                if (i == coins.Length-1)
+
+                if (i == coins.Length - 1)
                 {
                     if (coins[i].isHeads == false)
                     {
-                        label1.Text += "Lennister";
+                        l++;
+                        if (l > s)
+                            label1.Text += "Lennister" + "      Win Lennister";
+                        else
+                        {
+                            label1.Text += "Lennister" + "      Win Stark";
+                        }
                     }
                     else
                     {
-                        label1.Text += "Stark";
+                        s++;
+                        if (s > l)
+                            label1.Text += "Stark" + "      Win Stark";
+                        else
+                        {
+                            label1.Text += "Stark" + "      Win Lennister";
+                        }
                     }
                     //label1.Text += coins[i].isHeads ;
-                    
+
                 }
                 else
                 {
                     if (coins[i].isHeads == false)
                     {
+                        l++;
                         label1.Text += "Lennister" + ",";
                     }
                     else
                     {
+                        s++;
                         label1.Text += "Stark" + ",";
                     }
                     //label1.Text += coins[i].isHeads + ",";
                 }
 
-                
+
             }
             pictureBox1.Image = coins[0].isHeads ? Properties.Resources.house_stark : Properties.Resources.house_lannister;
             pictureBox2.Image = coins[1].isHeads ? Properties.Resources.house_stark : Properties.Resources.house_lannister;

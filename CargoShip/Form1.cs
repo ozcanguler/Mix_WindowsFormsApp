@@ -32,12 +32,12 @@ namespace CargoShip
         {
             progressBar1.Maximum = ship.Capacity;
             if (ship.getShipLoad() < ship.Capacity)
-            {
+            
                 progressBar1.Value = ship.getShipLoad();
 
                 lbl_ShipLabel.Text = ship.ToString();
                
-            }
+            
             lbl_CycleCount.Text = ship.CycleCount.ToString();
             lbl_CarCount.Text = ship.CarCount.ToString();
             lbl_TruckCount.Text = ship.TruckCount.ToString();

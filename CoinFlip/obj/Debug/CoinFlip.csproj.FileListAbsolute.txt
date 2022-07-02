@@ -8,3 +8,13 @@ C:\Users\Garavel\Desktop\Sluiter\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csproj.Gen
 C:\Users\Garavel\Desktop\Sluiter\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csproj.CoreCompileInputs.cache
 C:\Users\Garavel\Desktop\Sluiter\CoinFlip\CoinFlip\obj\Debug\CoinFlip.exe
 C:\Users\Garavel\Desktop\Sluiter\CoinFlip\CoinFlip\obj\Debug\CoinFlip.pdb
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe.config
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\CoinFlip\bin\Debug\CoinFlip.pdb
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csprojAssemblyReference.cache
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\CoinFlip\obj\Debug\CoinFlip.Form1.resources
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\CoinFlip\obj\Debug\CoinFlip.Properties.Resources.resources
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csproj.GenerateResource.cache
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\CoinFlip\obj\Debug\CoinFlip.exe
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\CoinFlip\obj\Debug\CoinFlip.pdb

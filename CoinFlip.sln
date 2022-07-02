@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinFlip", "CoinFlip\CoinFlip.csproj", "{20CD5D57-6F3E-405C-AF42-D033CB8BD646}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoShip", "..\..\Sluiter\CargoShipForms\CargoShip\CargoShip\CargoShip.csproj", "{AD32BF6D-52F9-4FE0-98DF-190854D4BA39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoShip", "CargoShip\CargoShip.csproj", "{F62E8AE8-5678-44CB-B57C-E76BFEBAF03B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{20CD5D57-6F3E-405C-AF42-D033CB8BD646}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20CD5D57-6F3E-405C-AF42-D033CB8BD646}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20CD5D57-6F3E-405C-AF42-D033CB8BD646}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AD32BF6D-52F9-4FE0-98DF-190854D4BA39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AD32BF6D-52F9-4FE0-98DF-190854D4BA39}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AD32BF6D-52F9-4FE0-98DF-190854D4BA39}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AD32BF6D-52F9-4FE0-98DF-190854D4BA39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62E8AE8-5678-44CB-B57C-E76BFEBAF03B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62E8AE8-5678-44CB-B57C-E76BFEBAF03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62E8AE8-5678-44CB-B57C-E76BFEBAF03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62E8AE8-5678-44CB-B57C-E76BFEBAF03B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
