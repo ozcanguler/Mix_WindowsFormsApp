@@ -1,0 +1,10 @@
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\ConvertTemperature\ConvertTemperature\bin\Debug\ConvertTemperature.exe.config
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\ConvertTemperature\ConvertTemperature\bin\Debug\ConvertTemperature.exe
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\ConvertTemperature\ConvertTemperature\bin\Debug\ConvertTemperature.pdb
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\ConvertTemperature\ConvertTemperature\obj\Debug\ConvertTemperature.csprojAssemblyReference.cache
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\ConvertTemperature\ConvertTemperature\obj\Debug\ConvertTemperature.Form1.resources
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\ConvertTemperature\ConvertTemperature\obj\Debug\ConvertTemperature.Properties.Resources.resources
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\ConvertTemperature\ConvertTemperature\obj\Debug\ConvertTemperature.csproj.GenerateResource.cache
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\ConvertTemperature\ConvertTemperature\obj\Debug\ConvertTemperature.csproj.CoreCompileInputs.cache
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\ConvertTemperature\ConvertTemperature\obj\Debug\ConvertTemperature.exe
+C:\Users\Garavel\Desktop\c#MyName\CoinFlip\ConvertTemperature\ConvertTemperature\obj\Debug\ConvertTemperature.pdb
