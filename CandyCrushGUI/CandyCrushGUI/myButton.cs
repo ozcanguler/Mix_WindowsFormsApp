@@ -12,7 +12,7 @@ namespace CandyCrushGUI
     {
         public static Color[] myColors = { Color.Red, Color.Pink, Color.White, Color.Magenta, Color.Blue, Color.Black, Color.Green, Color.Yellow };
         static Random rnd = new Random();
-        public static int btn_size = 125;
+        public static int btn_size = 25;
         public int row { get; set; }
         public int col { get; set; }
 
